@@ -19,7 +19,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;-> single-playlist-screen.css  &nbsp; (For styling Secondary page)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-> page2-responsive.css        &nbsp; &nbsp; &nbsp; (To make secondary page responsive)<br><br>
 
-![playlist](/Images/justin-bieber.jpg)
-
 
 
